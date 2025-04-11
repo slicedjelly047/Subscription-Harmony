@@ -28,7 +28,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "🟢 Churn Prediction API is running!"}
+    return {"message": " Churn Prediction API is running!"}
 
 @app.post("/predict")
 def predict_churn(data: SubscriptionInput):
