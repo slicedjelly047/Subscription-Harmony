@@ -1,0 +1,689 @@
+user_id,service_name,category,monthly_cost,login_frequency,time_spent,feature_usage,churned
+1,Spotify,Music,199,7,12.05,26.51,No
+1,YouTube Premium,Streaming,129,21,2.76,24.04,Yes
+1,Dropbox,Storage,150,24,5.34,22.86,No
+2,Amazon Prime,Streaming,299,21,14.56,84.92,No
+2,Google One,Storage,130,21,9.45,65.05,Yes
+2,Dropbox,Storage,150,17,8.11,45.99,Yes
+3,Spotify,Music,199,16,3.88,18.15,No
+3,Netflix,Streaming,499,12,7.96,63.32,Yes
+3,Google One,Storage,130,19,10.36,50.54,Yes
+3,Dropbox,Storage,150,14,12.22,37.42,Yes
+4,Notion Pro,Productivity,300,20,3.99,71.49,No
+4,Dropbox,Storage,150,8,1.0,91.84,Yes
+4,Hotstar,Streaming,299,8,11.45,48.26,Yes
+4,Google One,Storage,130,4,3.18,97.26,No
+4,YouTube Premium,Streaming,129,2,6.23,93.4,No
+5,Amazon Prime,Streaming,299,15,1.78,27.64,Yes
+5,Spotify,Music,199,8,12.75,77.26,No
+5,Notion Pro,Productivity,300,24,5.67,35.28,No
+5,Dropbox,Storage,150,9,4.8,24.87,Yes
+6,Amazon Prime,Streaming,299,9,11.7,27.88,Yes
+6,Canva Pro,Productivity,399,11,3.38,74.02,No
+6,Apple Music,Music,179,5,13.93,68.6,No
+7,Canva Pro,Productivity,399,9,9.54,39.78,Yes
+7,Spotify,Music,199,23,10.2,69.93,No
+8,Dropbox,Storage,150,22,13.36,52.5,Yes
+8,Canva Pro,Productivity,399,14,12.81,74.96,No
+8,Notion Pro,Productivity,300,14,7.66,57.05,No
+9,Notion Pro,Productivity,300,10,6.87,28.15,No
+9,Hotstar,Streaming,299,17,5.06,55.77,No
+9,Canva Pro,Productivity,399,23,9.26,58.59,No
+10,Amazon Prime,Streaming,299,13,1.62,36.08,Yes
+10,Google One,Storage,130,2,9.55,36.61,Yes
+10,Spotify,Music,199,12,3.21,90.33,No
+10,Notion Pro,Productivity,300,23,13.49,38.62,Yes
+11,YouTube Premium,Streaming,129,20,5.61,37.43,Yes
+11,Notion Pro,Productivity,300,9,7.53,72.32,Yes
+11,Amazon Prime,Streaming,299,24,14.17,39.09,No
+11,Spotify,Music,199,9,6.36,15.84,Yes
+12,Amazon Prime,Streaming,299,12,4.15,54.75,No
+12,Notion Pro,Productivity,300,17,14.97,34.01,No
+13,Google One,Storage,130,22,0.98,41.06,No
+13,YouTube Premium,Streaming,129,2,8.2,50.3,No
+13,Spotify,Music,199,23,10.25,78.55,No
+13,Netflix,Streaming,499,6,5.83,66.91,No
+14,YouTube Premium,Streaming,129,11,12.34,81.85,Yes
+14,Netflix,Streaming,499,6,10.59,87.25,Yes
+15,Apple Music,Music,179,4,0.74,56.09,Yes
+15,Notion Pro,Productivity,300,7,3.03,72.18,Yes
+15,Dropbox,Storage,150,18,12.65,70.81,No
+15,Hotstar,Streaming,299,18,13.91,88.96,No
+15,Google One,Storage,130,16,12.35,59.97,No
+16,Netflix,Streaming,499,2,14.95,96.89,No
+16,YouTube Premium,Streaming,129,23,5.42,41.43,No
+17,Hotstar,Streaming,299,3,12.92,46.41,No
+17,YouTube Premium,Streaming,129,20,1.72,24.55,No
+18,Canva Pro,Productivity,399,20,8.92,43.51,No
+18,Notion Pro,Productivity,300,18,2.83,59.39,No
+18,Amazon Prime,Streaming,299,16,14.92,25.83,Yes
+18,Apple Music,Music,179,14,5.22,77.18,No
+19,Netflix,Streaming,499,7,10.95,37.73,No
+19,Google One,Storage,130,19,9.73,32.54,No
+20,Netflix,Streaming,499,6,6.2,90.28,No
+20,Amazon Prime,Streaming,299,2,5.58,68.06,No
+21,Canva Pro,Productivity,399,1,3.33,75.02,Yes
+21,Apple Music,Music,179,3,11.64,13.92,No
+22,Amazon Prime,Streaming,299,14,13.77,43.31,Yes
+22,Spotify,Music,199,24,5.3,59.75,No
+22,Apple Music,Music,179,1,1.59,37.51,Yes
+22,Dropbox,Storage,150,1,5.1,25.25,Yes
+22,Canva Pro,Productivity,399,22,10.59,61.31,Yes
+23,Apple Music,Music,179,15,14.86,22.61,No
+23,Google One,Storage,130,2,5.18,86.38,Yes
+23,Hotstar,Streaming,299,22,5.71,36.42,No
+24,YouTube Premium,Streaming,129,3,4.22,65.04,Yes
+24,Google One,Storage,130,7,7.77,81.85,No
+24,Notion Pro,Productivity,300,14,12.04,90.1,No
+24,Amazon Prime,Streaming,299,2,1.86,62.05,Yes
+24,Hotstar,Streaming,299,22,9.07,12.75,Yes
+25,Google One,Storage,130,6,4.9,58.34,Yes
+25,Notion Pro,Productivity,300,8,11.66,29.42,No
+26,Notion Pro,Productivity,300,4,12.71,27.49,Yes
+26,Spotify,Music,199,3,9.74,75.35,No
+26,Apple Music,Music,179,10,5.18,81.57,No
+27,Canva Pro,Productivity,399,23,4.14,26.59,Yes
+27,Hotstar,Streaming,299,9,10.48,15.24,No
+27,YouTube Premium,Streaming,129,15,4.13,59.43,No
+27,Notion Pro,Productivity,300,8,14.05,67.44,No
+27,Dropbox,Storage,150,5,9.37,47.76,Yes
+28,Notion Pro,Productivity,300,16,2.8,20.81,No
+28,Spotify,Music,199,5,1.87,38.03,No
+28,Dropbox,Storage,150,5,7.38,18.81,Yes
+29,Netflix,Streaming,499,7,5.52,51.82,No
+29,Amazon Prime,Streaming,299,10,14.26,89.8,No
+29,Canva Pro,Productivity,399,10,9.57,55.28,No
+29,Dropbox,Storage,150,5,10.42,65.43,No
+29,Notion Pro,Productivity,300,2,0.88,62.72,No
+30,YouTube Premium,Streaming,129,24,10.32,61.6,Yes
+30,Hotstar,Streaming,299,19,12.4,66.33,No
+30,Dropbox,Storage,150,8,13.63,27.62,Yes
+30,Canva Pro,Productivity,399,14,0.76,18.5,No
+31,Notion Pro,Productivity,300,17,10.01,44.69,No
+31,Canva Pro,Productivity,399,2,4.28,54.64,No
+31,Amazon Prime,Streaming,299,18,9.62,88.97,No
+32,Apple Music,Music,179,21,14.53,59.32,No
+32,Dropbox,Storage,150,24,12.2,99.15,No
+32,Canva Pro,Productivity,399,18,4.13,62.25,No
+33,Netflix,Streaming,499,5,3.96,71.19,No
+33,Spotify,Music,199,3,2.0,91.23,No
+33,Google One,Storage,130,16,6.15,36.79,Yes
+34,YouTube Premium,Streaming,129,4,0.66,91.48,Yes
+34,Netflix,Streaming,499,7,14.37,70.91,Yes
+34,Dropbox,Storage,150,15,1.71,18.25,No
+34,Notion Pro,Productivity,300,20,10.25,77.71,No
+34,Amazon Prime,Streaming,299,7,1.82,54.5,Yes
+35,Dropbox,Storage,150,5,11.19,59.13,No
+35,Hotstar,Streaming,299,15,2.57,78.54,No
+35,Apple Music,Music,179,6,1.72,73.09,Yes
+35,Netflix,Streaming,499,18,13.43,23.19,No
+36,Spotify,Music,199,6,14.81,43.68,Yes
+36,Notion Pro,Productivity,300,20,3.93,91.69,No
+36,YouTube Premium,Streaming,129,4,5.96,17.52,Yes
+36,Google One,Storage,130,22,10.72,32.39,No
+37,Apple Music,Music,179,3,4.18,46.47,No
+37,Notion Pro,Productivity,300,20,2.22,20.58,No
+37,Hotstar,Streaming,299,1,10.38,31.38,Yes
+38,Netflix,Streaming,499,17,1.7,57.55,No
+38,Google One,Storage,130,12,14.68,60.04,No
+39,Apple Music,Music,179,16,8.15,99.37,Yes
+39,Amazon Prime,Streaming,299,3,10.58,16.79,Yes
+39,YouTube Premium,Streaming,129,17,10.59,50.91,No
+39,Canva Pro,Productivity,399,22,6.07,76.34,No
+39,Hotstar,Streaming,299,10,14.28,90.12,No
+40,Dropbox,Storage,150,21,4.52,26.93,No
+40,Spotify,Music,199,18,4.36,42.43,No
+40,Hotstar,Streaming,299,22,0.97,35.18,No
+41,Amazon Prime,Streaming,299,13,10.43,24.64,No
+41,Notion Pro,Productivity,300,6,14.27,75.31,No
+42,Dropbox,Storage,150,2,1.7,88.9,No
+42,Canva Pro,Productivity,399,5,0.88,43.88,No
+42,Notion Pro,Productivity,300,15,2.68,63.47,No
+42,Amazon Prime,Streaming,299,22,12.52,61.22,Yes
+42,Spotify,Music,199,9,6.51,34.61,Yes
+43,Amazon Prime,Streaming,299,6,10.53,58.09,No
+43,Google One,Storage,130,3,8.55,79.21,No
+43,Notion Pro,Productivity,300,10,5.98,31.7,No
+43,Hotstar,Streaming,299,1,14.33,64.56,Yes
+44,Spotify,Music,199,17,11.48,14.22,No
+44,Dropbox,Storage,150,7,10.24,56.83,No
+44,Apple Music,Music,179,18,12.86,59.67,No
+45,Apple Music,Music,179,17,2.44,12.59,No
+45,Netflix,Streaming,499,21,9.77,82.45,No
+46,Netflix,Streaming,499,2,5.58,63.09,Yes
+46,YouTube Premium,Streaming,129,19,13.61,41.34,No
+47,Netflix,Streaming,499,24,13.7,36.82,No
+47,Google One,Storage,130,17,14.27,23.24,No
+47,Spotify,Music,199,10,11.65,15.96,Yes
+47,Apple Music,Music,179,6,7.64,39.59,No
+47,Amazon Prime,Streaming,299,16,5.45,58.35,No
+48,Netflix,Streaming,499,16,2.7,22.49,No
+48,Amazon Prime,Streaming,299,8,10.6,47.05,No
+48,Hotstar,Streaming,299,18,9.23,30.15,No
+48,Spotify,Music,199,18,4.54,25.93,Yes
+49,YouTube Premium,Streaming,129,1,8.25,42.04,No
+49,Amazon Prime,Streaming,299,17,7.8,72.14,Yes
+50,YouTube Premium,Streaming,129,15,9.6,17.36,No
+50,Hotstar,Streaming,299,16,1.39,34.92,No
+51,Hotstar,Streaming,299,17,9.16,98.76,No
+51,Spotify,Music,199,24,7.53,65.64,No
+51,Dropbox,Storage,150,24,10.95,15.61,Yes
+51,Amazon Prime,Streaming,299,19,10.84,90.57,No
+51,Canva Pro,Productivity,399,15,0.94,88.05,No
+52,Netflix,Streaming,499,19,4.02,34.23,No
+52,Amazon Prime,Streaming,299,10,8.68,85.66,Yes
+53,Hotstar,Streaming,299,12,3.88,40.86,No
+53,Spotify,Music,199,10,11.94,54.86,Yes
+54,Google One,Storage,130,15,11.18,60.2,No
+54,Netflix,Streaming,499,12,2.35,35.54,No
+55,Apple Music,Music,179,2,4.04,54.84,Yes
+55,Netflix,Streaming,499,1,0.61,30.28,Yes
+55,Amazon Prime,Streaming,299,16,2.83,26.79,No
+56,Hotstar,Streaming,299,24,13.5,17.22,No
+56,Canva Pro,Productivity,399,8,10.61,99.75,No
+57,Canva Pro,Productivity,399,20,14.56,87.9,No
+57,Spotify,Music,199,17,7.62,75.06,No
+57,Netflix,Streaming,499,2,8.57,61.45,Yes
+57,Apple Music,Music,179,12,3.47,97.12,No
+57,Google One,Storage,130,20,7.86,31.82,Yes
+58,Hotstar,Streaming,299,14,4.69,62.31,Yes
+58,Spotify,Music,199,4,5.15,63.45,Yes
+58,Google One,Storage,130,24,2.45,15.7,No
+58,Notion Pro,Productivity,300,13,10.43,17.91,Yes
+58,Apple Music,Music,179,9,11.52,63.61,Yes
+59,Apple Music,Music,179,23,12.02,19.6,No
+59,Netflix,Streaming,499,12,6.42,93.96,No
+60,Amazon Prime,Streaming,299,2,3.13,15.98,Yes
+60,Dropbox,Storage,150,22,1.2,80.34,No
+61,Spotify,Music,199,5,3.42,24.73,Yes
+61,Notion Pro,Productivity,300,5,3.92,67.04,No
+61,Amazon Prime,Streaming,299,13,9.03,71.47,No
+61,Hotstar,Streaming,299,8,5.97,51.64,Yes
+62,Netflix,Streaming,499,23,6.86,61.97,No
+62,Google One,Storage,130,15,6.07,58.92,No
+62,Notion Pro,Productivity,300,19,8.37,48.84,No
+62,Spotify,Music,199,19,5.36,22.53,No
+63,Amazon Prime,Streaming,299,1,8.24,90.45,No
+63,Canva Pro,Productivity,399,6,11.41,73.63,No
+63,Dropbox,Storage,150,1,0.99,61.29,No
+63,YouTube Premium,Streaming,129,10,5.46,83.91,Yes
+64,Dropbox,Storage,150,4,7.13,64.36,No
+64,Spotify,Music,199,8,2.67,30.63,No
+64,YouTube Premium,Streaming,129,2,0.68,63.86,No
+64,Notion Pro,Productivity,300,11,9.19,84.41,No
+65,Hotstar,Streaming,299,8,8.96,46.08,Yes
+65,YouTube Premium,Streaming,129,14,9.42,92.07,Yes
+65,Canva Pro,Productivity,399,18,9.37,11.63,No
+65,Apple Music,Music,179,12,1.98,92.69,No
+65,Dropbox,Storage,150,5,10.75,23.73,No
+66,Google One,Storage,130,9,6.65,76.28,No
+66,Apple Music,Music,179,22,13.7,21.05,No
+66,YouTube Premium,Streaming,129,14,3.2,85.37,No
+67,Canva Pro,Productivity,399,22,8.02,63.21,No
+67,Netflix,Streaming,499,9,11.29,28.5,No
+67,Hotstar,Streaming,299,9,2.16,47.31,No
+68,Notion Pro,Productivity,300,6,5.52,41.23,No
+68,Spotify,Music,199,17,9.01,12.96,No
+68,Apple Music,Music,179,22,3.06,54.85,No
+69,Dropbox,Storage,150,24,5.02,80.24,No
+69,Canva Pro,Productivity,399,18,10.12,26.02,No
+69,Spotify,Music,199,17,8.58,87.46,No
+70,Canva Pro,Productivity,399,8,7.78,63.58,Yes
+70,Hotstar,Streaming,299,23,6.69,81.98,No
+70,Notion Pro,Productivity,300,17,1.03,52.49,No
+70,Google One,Storage,130,18,4.76,74.27,No
+71,Notion Pro,Productivity,300,22,6.89,46.07,No
+71,Apple Music,Music,179,4,3.14,87.56,No
+71,Dropbox,Storage,150,10,4.43,67.96,No
+71,YouTube Premium,Streaming,129,23,14.69,85.58,No
+71,Amazon Prime,Streaming,299,8,0.89,29.98,Yes
+72,Dropbox,Storage,150,8,2.01,81.99,Yes
+72,Google One,Storage,130,1,8.57,74.87,No
+73,Amazon Prime,Streaming,299,24,10.97,87.01,No
+73,Canva Pro,Productivity,399,4,14.19,22.7,Yes
+74,Hotstar,Streaming,299,23,13.5,11.17,Yes
+74,Google One,Storage,130,23,12.8,21.05,No
+74,Amazon Prime,Streaming,299,18,13.44,83.57,No
+75,Apple Music,Music,179,10,12.46,42.68,Yes
+75,Canva Pro,Productivity,399,20,9.55,46.85,No
+76,YouTube Premium,Streaming,129,2,12.99,29.76,No
+76,Netflix,Streaming,499,12,2.53,88.16,No
+76,Apple Music,Music,179,14,7.33,26.39,No
+76,Google One,Storage,130,17,4.4,58.75,No
+77,Canva Pro,Productivity,399,7,3.66,68.05,Yes
+77,Dropbox,Storage,150,13,10.52,71.49,No
+77,Notion Pro,Productivity,300,21,12.32,54.83,Yes
+77,Spotify,Music,199,5,9.95,84.68,Yes
+77,Google One,Storage,130,10,2.53,33.73,No
+78,Canva Pro,Productivity,399,8,4.14,66.98,Yes
+78,Spotify,Music,199,10,13.76,47.69,No
+78,YouTube Premium,Streaming,129,14,1.18,24.97,No
+79,Hotstar,Streaming,299,19,1.81,79.39,Yes
+79,Spotify,Music,199,11,4.69,42.01,No
+79,YouTube Premium,Streaming,129,7,9.35,95.44,Yes
+79,Dropbox,Storage,150,24,14.08,75.93,No
+80,Apple Music,Music,179,4,8.33,24.58,No
+80,Amazon Prime,Streaming,299,17,7.7,63.72,No
+80,Hotstar,Streaming,299,2,2.05,16.76,Yes
+80,Dropbox,Storage,150,11,9.18,51.37,Yes
+80,Notion Pro,Productivity,300,18,12.09,72.52,No
+81,Spotify,Music,199,2,1.99,38.31,No
+81,Netflix,Streaming,499,17,2.48,95.52,No
+82,Hotstar,Streaming,299,15,1.76,96.24,No
+82,Amazon Prime,Streaming,299,21,11.51,75.17,No
+83,Spotify,Music,199,8,4.12,54.05,Yes
+83,Apple Music,Music,179,9,14.19,13.55,No
+83,Dropbox,Storage,150,7,14.99,60.02,Yes
+83,YouTube Premium,Streaming,129,7,0.99,72.77,Yes
+84,Dropbox,Storage,150,16,2.17,47.96,No
+84,Netflix,Streaming,499,20,12.75,38.72,No
+84,Hotstar,Streaming,299,17,9.93,42.82,No
+84,Spotify,Music,199,13,1.62,72.67,No
+85,YouTube Premium,Streaming,129,23,6.37,61.52,No
+85,Google One,Storage,130,4,11.97,38.69,No
+86,Canva Pro,Productivity,399,16,6.69,88.9,No
+86,Netflix,Streaming,499,3,13.12,11.91,No
+86,Apple Music,Music,179,13,6.07,93.93,Yes
+87,Dropbox,Storage,150,14,5.59,79.05,No
+87,YouTube Premium,Streaming,129,21,7.46,62.27,No
+87,Apple Music,Music,179,10,1.83,40.27,No
+87,Netflix,Streaming,499,1,3.96,19.94,Yes
+88,Notion Pro,Productivity,300,18,4.8,31.02,Yes
+88,Canva Pro,Productivity,399,1,13.7,14.06,Yes
+89,Notion Pro,Productivity,300,24,2.3,96.08,No
+89,Google One,Storage,130,5,1.8,47.58,No
+89,Amazon Prime,Streaming,299,14,9.21,91.34,No
+89,Hotstar,Streaming,299,7,14.87,30.85,No
+89,Apple Music,Music,179,22,9.31,56.14,No
+90,Dropbox,Storage,150,2,6.07,13.31,No
+90,YouTube Premium,Streaming,129,24,5.58,15.21,No
+90,Hotstar,Streaming,299,17,8.01,63.75,No
+90,Canva Pro,Productivity,399,10,7.97,54.21,No
+91,Apple Music,Music,179,3,12.33,30.2,Yes
+91,Notion Pro,Productivity,300,15,1.01,90.54,No
+91,YouTube Premium,Streaming,129,11,13.22,33.9,Yes
+92,Hotstar,Streaming,299,9,1.14,86.7,Yes
+92,Google One,Storage,130,15,10.0,59.58,Yes
+92,Spotify,Music,199,24,4.16,10.46,No
+92,Netflix,Streaming,499,16,7.69,17.29,No
+92,Canva Pro,Productivity,399,13,13.47,99.23,Yes
+93,Amazon Prime,Streaming,299,13,7.47,63.32,No
+93,YouTube Premium,Streaming,129,24,10.1,58.94,No
+93,Hotstar,Streaming,299,1,13.24,81.77,No
+94,YouTube Premium,Streaming,129,1,2.78,24.44,Yes
+94,Hotstar,Streaming,299,13,10.61,71.21,No
+94,Apple Music,Music,179,6,3.24,89.35,No
+95,Amazon Prime,Streaming,299,19,13.25,10.46,No
+95,Google One,Storage,130,21,11.28,24.47,No
+96,Hotstar,Streaming,299,14,11.47,33.28,Yes
+96,Notion Pro,Productivity,300,13,9.45,98.31,No
+96,Apple Music,Music,179,2,9.69,58.6,No
+96,Canva Pro,Productivity,399,6,4.61,11.66,Yes
+97,YouTube Premium,Streaming,129,2,5.46,66.94,No
+97,Dropbox,Storage,150,22,14.09,71.91,Yes
+97,Amazon Prime,Streaming,299,17,11.68,73.77,No
+97,Apple Music,Music,179,22,9.5,14.12,No
+98,Hotstar,Streaming,299,15,14.55,77.47,Yes
+98,Canva Pro,Productivity,399,12,0.86,11.99,No
+98,YouTube Premium,Streaming,129,15,12.37,32.73,Yes
+98,Netflix,Streaming,499,2,4.47,99.74,Yes
+98,Apple Music,Music,179,13,12.89,57.43,No
+99,Spotify,Music,199,11,3.7,17.41,No
+99,YouTube Premium,Streaming,129,22,2.4,88.12,No
+99,Canva Pro,Productivity,399,24,6.77,94.93,No
+100,Apple Music,Music,179,20,6.27,34.68,No
+100,Google One,Storage,130,1,5.15,75.2,No
+100,Spotify,Music,199,3,0.95,68.65,Yes
+100,Amazon Prime,Streaming,299,15,7.34,58.89,Yes
+100,Hotstar,Streaming,299,17,1.82,23.83,No
+101,Google One,Storage,130,18,11.53,66.36,Yes
+101,Notion Pro,Productivity,300,21,13.72,97.08,Yes
+101,Amazon Prime,Streaming,299,15,7.48,20.56,Yes
+102,Hotstar,Streaming,299,12,4.09,60.26,No
+102,Apple Music,Music,179,22,8.94,34.21,No
+103,Apple Music,Music,179,11,14.77,23.46,No
+103,Canva Pro,Productivity,399,18,7.46,64.0,No
+104,Apple Music,Music,179,13,11.48,95.74,No
+104,Dropbox,Storage,150,11,7.47,19.44,No
+104,Spotify,Music,199,14,2.57,54.9,No
+104,Canva Pro,Productivity,399,20,5.52,79.82,No
+104,YouTube Premium,Streaming,129,1,8.01,17.91,Yes
+105,Amazon Prime,Streaming,299,1,12.46,42.2,Yes
+105,Notion Pro,Productivity,300,6,8.73,72.05,No
+105,Google One,Storage,130,2,1.1,70.33,No
+105,Spotify,Music,199,3,13.5,63.53,No
+106,YouTube Premium,Streaming,129,9,10.78,88.39,No
+106,Dropbox,Storage,150,20,5.42,83.33,Yes
+106,Hotstar,Streaming,299,20,8.52,63.77,No
+106,Netflix,Streaming,499,3,1.09,24.76,Yes
+107,Canva Pro,Productivity,399,18,1.38,32.24,Yes
+107,Hotstar,Streaming,299,13,9.43,39.61,No
+108,Notion Pro,Productivity,300,13,3.14,81.07,No
+108,Google One,Storage,130,19,2.84,11.88,No
+108,Hotstar,Streaming,299,5,14.95,97.73,No
+108,Dropbox,Storage,150,10,6.35,29.85,No
+109,Hotstar,Streaming,299,15,4.24,51.64,No
+109,Apple Music,Music,179,24,6.67,41.13,No
+109,Dropbox,Storage,150,20,7.82,58.9,No
+109,Netflix,Streaming,499,9,6.86,75.27,Yes
+109,YouTube Premium,Streaming,129,2,9.17,81.37,No
+110,YouTube Premium,Streaming,129,19,9.09,92.11,No
+110,Spotify,Music,199,13,7.25,85.24,No
+110,Netflix,Streaming,499,8,6.38,64.17,No
+111,Dropbox,Storage,150,14,14.59,26.29,No
+111,Spotify,Music,199,13,6.84,18.77,No
+111,Amazon Prime,Streaming,299,14,7.96,42.33,No
+111,Notion Pro,Productivity,300,6,9.96,38.09,Yes
+112,Amazon Prime,Streaming,299,3,10.02,39.27,No
+112,Netflix,Streaming,499,24,6.25,31.33,No
+113,Dropbox,Storage,150,10,1.57,25.28,No
+113,Google One,Storage,130,10,10.21,23.12,No
+113,Notion Pro,Productivity,300,8,9.45,73.61,Yes
+113,Canva Pro,Productivity,399,20,6.0,64.5,No
+113,Hotstar,Streaming,299,12,7.38,85.98,No
+114,Netflix,Streaming,499,15,13.09,28.53,Yes
+114,Amazon Prime,Streaming,299,18,14.81,21.07,No
+115,Google One,Storage,130,1,2.27,50.7,No
+115,Amazon Prime,Streaming,299,5,2.0,62.62,No
+115,Hotstar,Streaming,299,20,14.81,96.86,Yes
+116,Hotstar,Streaming,299,2,5.19,97.58,No
+116,Canva Pro,Productivity,399,24,7.98,54.0,No
+116,Google One,Storage,130,20,2.32,21.94,Yes
+116,Spotify,Music,199,18,3.43,70.61,No
+117,Netflix,Streaming,499,1,11.1,24.05,Yes
+117,Apple Music,Music,179,15,3.07,72.34,No
+117,Notion Pro,Productivity,300,11,10.41,54.75,No
+118,Google One,Storage,130,8,13.04,79.17,Yes
+118,Canva Pro,Productivity,399,14,13.82,64.05,No
+118,Spotify,Music,199,14,6.21,68.61,Yes
+118,Netflix,Streaming,499,2,14.99,14.34,No
+118,Notion Pro,Productivity,300,9,14.9,77.72,Yes
+119,Canva Pro,Productivity,399,9,2.08,68.55,No
+119,Netflix,Streaming,499,4,10.18,82.71,No
+120,Dropbox,Storage,150,9,5.1,88.2,Yes
+120,Netflix,Streaming,499,22,9.91,39.55,No
+121,Notion Pro,Productivity,300,7,8.67,44.24,No
+121,Google One,Storage,130,1,3.94,43.59,Yes
+122,Spotify,Music,199,11,9.25,70.14,No
+122,Hotstar,Streaming,299,14,7.76,58.81,No
+122,Apple Music,Music,179,2,7.45,12.31,Yes
+122,Netflix,Streaming,499,12,2.66,57.4,No
+123,Spotify,Music,199,4,9.31,78.84,No
+123,Google One,Storage,130,18,10.87,56.91,No
+123,Dropbox,Storage,150,11,0.61,68.27,No
+123,Notion Pro,Productivity,300,4,13.94,15.42,No
+123,YouTube Premium,Streaming,129,22,3.32,24.97,No
+124,YouTube Premium,Streaming,129,21,4.63,37.66,No
+124,Dropbox,Storage,150,3,8.92,18.07,Yes
+124,Notion Pro,Productivity,300,2,4.45,47.22,Yes
+124,Netflix,Streaming,499,11,2.29,87.35,No
+125,Spotify,Music,199,7,4.78,81.41,Yes
+125,Canva Pro,Productivity,399,24,14.46,53.52,No
+125,Hotstar,Streaming,299,1,5.92,57.38,Yes
+126,Dropbox,Storage,150,13,9.22,83.73,No
+126,Hotstar,Streaming,299,9,12.01,68.19,Yes
+127,Spotify,Music,199,10,13.55,41.81,No
+127,Google One,Storage,130,5,4.88,75.88,No
+127,YouTube Premium,Streaming,129,7,10.18,18.6,No
+127,Notion Pro,Productivity,300,1,6.65,23.77,Yes
+128,Netflix,Streaming,499,12,13.01,29.51,Yes
+128,Dropbox,Storage,150,16,5.03,30.72,No
+128,Hotstar,Streaming,299,11,3.86,45.18,No
+129,Amazon Prime,Streaming,299,2,4.48,63.73,No
+129,Netflix,Streaming,499,10,6.71,74.58,No
+130,Notion Pro,Productivity,300,7,5.45,83.68,No
+130,Apple Music,Music,179,6,8.89,34.67,Yes
+130,Spotify,Music,199,8,9.86,63.62,Yes
+130,Dropbox,Storage,150,1,3.79,41.95,Yes
+131,Dropbox,Storage,150,17,12.56,70.26,Yes
+131,Canva Pro,Productivity,399,21,4.43,63.35,No
+131,Amazon Prime,Streaming,299,12,5.2,39.97,No
+132,Netflix,Streaming,499,23,5.99,42.66,No
+132,Amazon Prime,Streaming,299,23,7.25,15.41,No
+132,YouTube Premium,Streaming,129,4,14.44,67.15,No
+132,Hotstar,Streaming,299,23,8.27,18.7,No
+133,Spotify,Music,199,16,0.52,37.08,No
+133,Google One,Storage,130,3,13.94,31.12,Yes
+133,Apple Music,Music,179,8,0.79,76.35,No
+133,Notion Pro,Productivity,300,1,12.71,56.89,No
+133,YouTube Premium,Streaming,129,18,11.92,87.82,No
+134,YouTube Premium,Streaming,129,12,11.84,73.79,Yes
+134,Amazon Prime,Streaming,299,1,3.8,40.75,Yes
+135,Apple Music,Music,179,2,14.09,59.84,Yes
+135,Notion Pro,Productivity,300,20,4.56,94.81,No
+135,Netflix,Streaming,499,6,13.83,54.73,No
+135,Google One,Storage,130,5,6.17,55.1,Yes
+136,Dropbox,Storage,150,6,12.35,44.26,No
+136,Amazon Prime,Streaming,299,14,12.19,81.1,No
+136,Notion Pro,Productivity,300,9,5.18,12.06,Yes
+137,Apple Music,Music,179,3,5.52,97.8,No
+137,Dropbox,Storage,150,2,2.42,87.58,No
+137,YouTube Premium,Streaming,129,14,2.52,90.84,No
+138,Notion Pro,Productivity,300,20,7.79,45.88,Yes
+138,Hotstar,Streaming,299,21,2.27,53.04,No
+138,Dropbox,Storage,150,15,14.47,59.46,No
+138,Amazon Prime,Streaming,299,13,14.08,88.85,No
+138,Google One,Storage,130,6,0.5,11.59,No
+139,Amazon Prime,Streaming,299,23,2.7,15.52,No
+139,Apple Music,Music,179,10,3.57,53.61,No
+139,YouTube Premium,Streaming,129,24,4.81,48.73,Yes
+140,Google One,Storage,130,21,2.26,37.29,Yes
+140,Notion Pro,Productivity,300,16,10.53,65.62,No
+140,Canva Pro,Productivity,399,8,12.3,65.37,Yes
+141,Google One,Storage,130,20,10.01,86.32,No
+141,Spotify,Music,199,5,13.36,50.48,Yes
+141,Notion Pro,Productivity,300,7,8.12,53.35,Yes
+141,Hotstar,Streaming,299,22,14.48,32.37,Yes
+142,Amazon Prime,Streaming,299,21,0.78,33.38,No
+142,Canva Pro,Productivity,399,24,8.26,29.37,Yes
+142,Netflix,Streaming,499,18,9.62,27.9,Yes
+143,Apple Music,Music,179,4,5.89,33.93,No
+143,Canva Pro,Productivity,399,21,12.74,18.83,No
+143,Google One,Storage,130,4,13.04,31.91,No
+143,Dropbox,Storage,150,3,5.95,45.5,Yes
+143,Amazon Prime,Streaming,299,21,14.37,21.98,Yes
+144,YouTube Premium,Streaming,129,24,5.07,71.93,No
+144,Apple Music,Music,179,1,12.69,13.46,No
+144,Notion Pro,Productivity,300,21,12.46,54.59,No
+145,Apple Music,Music,179,22,9.73,65.25,Yes
+145,Amazon Prime,Streaming,299,24,13.3,19.51,No
+146,Dropbox,Storage,150,23,10.36,13.75,Yes
+146,Apple Music,Music,179,11,10.06,82.19,Yes
+146,Hotstar,Streaming,299,17,14.37,76.38,No
+146,Netflix,Streaming,499,14,14.88,97.37,No
+146,YouTube Premium,Streaming,129,19,3.19,25.67,Yes
+147,Spotify,Music,199,22,11.58,33.85,Yes
+147,Google One,Storage,130,16,14.53,36.59,No
+147,Amazon Prime,Streaming,299,9,6.04,28.51,Yes
+147,Dropbox,Storage,150,4,11.73,67.95,No
+148,Dropbox,Storage,150,18,5.17,21.27,No
+148,Canva Pro,Productivity,399,2,9.23,62.42,No
+148,Netflix,Streaming,499,2,2.36,40.44,No
+149,Netflix,Streaming,499,23,1.88,43.84,No
+149,Canva Pro,Productivity,399,18,14.17,31.66,Yes
+149,Notion Pro,Productivity,300,19,13.36,68.12,No
+150,Google One,Storage,130,23,13.25,33.26,No
+150,Apple Music,Music,179,21,11.45,51.45,No
+150,Hotstar,Streaming,299,8,8.59,26.25,Yes
+151,YouTube Premium,Streaming,129,22,11.42,34.24,No
+151,Apple Music,Music,179,13,2.89,21.86,No
+151,Amazon Prime,Streaming,299,18,3.6,55.53,No
+151,Canva Pro,Productivity,399,13,6.49,78.24,No
+152,Spotify,Music,199,3,4.81,60.85,No
+152,Dropbox,Storage,150,7,8.87,88.94,Yes
+152,Google One,Storage,130,8,7.19,10.84,Yes
+152,Hotstar,Streaming,299,5,13.28,35.01,Yes
+153,Netflix,Streaming,499,10,10.03,37.98,No
+153,Dropbox,Storage,150,14,9.43,26.92,No
+153,Apple Music,Music,179,13,8.31,57.17,No
+153,Notion Pro,Productivity,300,22,12.57,10.99,No
+154,Canva Pro,Productivity,399,21,5.84,39.42,Yes
+154,Google One,Storage,130,23,7.32,55.18,Yes
+154,Amazon Prime,Streaming,299,15,7.0,74.99,No
+154,Netflix,Streaming,499,3,2.5,69.67,Yes
+155,Netflix,Streaming,499,7,0.55,65.76,Yes
+155,Dropbox,Storage,150,13,1.85,62.94,No
+155,Google One,Storage,130,14,10.99,19.37,No
+155,Apple Music,Music,179,20,8.63,64.31,No
+156,Canva Pro,Productivity,399,18,9.23,12.06,No
+156,Dropbox,Storage,150,14,2.66,72.59,No
+156,Notion Pro,Productivity,300,6,3.54,84.26,No
+156,Hotstar,Streaming,299,13,2.64,39.54,No
+156,Amazon Prime,Streaming,299,18,5.89,15.63,No
+157,Dropbox,Storage,150,15,14.98,93.98,No
+157,Canva Pro,Productivity,399,17,9.74,54.65,Yes
+158,Amazon Prime,Streaming,299,15,6.44,85.58,No
+158,YouTube Premium,Streaming,129,9,14.28,28.26,No
+158,Hotstar,Streaming,299,10,5.35,12.36,Yes
+158,Apple Music,Music,179,22,4.46,56.63,No
+158,Spotify,Music,199,21,1.31,86.75,No
+159,Amazon Prime,Streaming,299,5,12.71,26.75,No
+159,Dropbox,Storage,150,10,14.09,73.54,No
+159,Hotstar,Streaming,299,7,13.61,91.85,No
+159,YouTube Premium,Streaming,129,4,11.6,24.3,Yes
+160,Hotstar,Streaming,299,20,10.03,96.1,Yes
+160,Notion Pro,Productivity,300,12,1.15,13.27,No
+160,Apple Music,Music,179,23,13.64,32.46,No
+161,YouTube Premium,Streaming,129,22,6.72,86.03,No
+161,Spotify,Music,199,9,7.57,13.03,Yes
+161,Canva Pro,Productivity,399,11,2.52,57.92,No
+162,Hotstar,Streaming,299,7,1.75,31.31,No
+162,Canva Pro,Productivity,399,11,14.47,60.42,No
+163,Amazon Prime,Streaming,299,10,12.5,80.89,No
+163,Apple Music,Music,179,5,14.73,33.09,No
+163,Spotify,Music,199,5,8.7,51.75,No
+163,Netflix,Streaming,499,12,5.57,20.27,Yes
+163,Notion Pro,Productivity,300,4,6.56,18.0,Yes
+164,Apple Music,Music,179,1,8.09,20.33,No
+164,Google One,Storage,130,11,1.48,73.71,No
+164,YouTube Premium,Streaming,129,6,3.78,86.22,Yes
+164,Notion Pro,Productivity,300,5,14.21,86.5,No
+164,Hotstar,Streaming,299,2,13.0,51.41,No
+165,Apple Music,Music,179,12,1.4,56.13,No
+165,Amazon Prime,Streaming,299,10,14.68,81.46,No
+165,Spotify,Music,199,7,13.15,59.04,No
+165,Dropbox,Storage,150,20,8.03,28.44,No
+165,Notion Pro,Productivity,300,22,2.84,32.99,No
+166,Apple Music,Music,179,8,14.78,79.48,Yes
+166,Canva Pro,Productivity,399,24,7.23,91.83,No
+166,Google One,Storage,130,20,12.08,43.47,No
+166,Notion Pro,Productivity,300,18,1.85,49.7,Yes
+167,Dropbox,Storage,150,12,8.09,35.84,No
+167,Hotstar,Streaming,299,4,4.51,38.11,No
+167,Apple Music,Music,179,15,13.77,57.97,Yes
+168,Hotstar,Streaming,299,20,8.59,24.94,No
+168,Dropbox,Storage,150,13,13.64,34.92,No
+168,Google One,Storage,130,1,9.17,13.0,Yes
+169,Notion Pro,Productivity,300,16,2.71,49.63,No
+169,Hotstar,Streaming,299,22,12.92,20.59,No
+169,Apple Music,Music,179,23,14.52,47.6,No
+169,Netflix,Streaming,499,21,11.02,39.07,No
+170,Google One,Storage,130,23,2.38,71.82,Yes
+170,Netflix,Streaming,499,4,10.93,90.12,Yes
+170,Amazon Prime,Streaming,299,5,14.62,40.32,Yes
+170,Canva Pro,Productivity,399,6,8.34,73.92,Yes
+171,Google One,Storage,130,11,13.57,68.65,No
+171,Canva Pro,Productivity,399,24,7.67,84.54,No
+171,Netflix,Streaming,499,16,10.82,84.34,Yes
+171,Dropbox,Storage,150,21,6.59,91.48,No
+171,Notion Pro,Productivity,300,18,11.36,68.6,No
+172,Spotify,Music,199,22,11.2,82.56,No
+172,Netflix,Streaming,499,3,0.95,76.54,Yes
+172,Google One,Storage,130,3,10.45,16.27,Yes
+173,YouTube Premium,Streaming,129,9,10.0,99.26,Yes
+173,Apple Music,Music,179,3,10.57,56.14,Yes
+173,Google One,Storage,130,21,0.98,37.36,No
+174,Amazon Prime,Streaming,299,14,13.6,30.95,No
+174,Netflix,Streaming,499,13,13.53,68.57,No
+175,Dropbox,Storage,150,23,2.95,45.08,No
+175,Canva Pro,Productivity,399,14,13.04,59.2,No
+175,Google One,Storage,130,14,7.45,11.62,No
+175,Netflix,Streaming,499,14,13.81,35.2,No
+176,Apple Music,Music,179,19,14.61,84.34,No
+176,Spotify,Music,199,20,14.74,65.92,No
+176,Canva Pro,Productivity,399,23,8.22,67.16,No
+177,YouTube Premium,Streaming,129,24,10.7,58.66,Yes
+177,Dropbox,Storage,150,9,0.68,52.19,Yes
+178,YouTube Premium,Streaming,129,11,1.58,30.37,No
+178,Spotify,Music,199,9,1.2,91.26,No
+179,Netflix,Streaming,499,9,5.29,40.64,No
+179,Hotstar,Streaming,299,23,8.2,85.43,No
+179,Spotify,Music,199,12,8.95,99.59,No
+179,Dropbox,Storage,150,21,1.42,84.82,No
+179,Google One,Storage,130,1,11.19,57.27,Yes
+180,Spotify,Music,199,3,12.52,89.11,No
+180,Notion Pro,Productivity,300,13,10.57,17.4,No
+181,Google One,Storage,130,14,11.72,64.17,No
+181,Netflix,Streaming,499,22,9.3,66.82,No
+181,Amazon Prime,Streaming,299,19,3.94,56.11,Yes
+181,Canva Pro,Productivity,399,22,11.91,97.37,No
+182,Canva Pro,Productivity,399,24,9.21,76.92,No
+182,Hotstar,Streaming,299,23,6.4,90.23,Yes
+182,Dropbox,Storage,150,12,9.26,91.66,No
+182,Spotify,Music,199,10,14.59,39.82,No
+183,Amazon Prime,Streaming,299,8,7.31,50.27,Yes
+183,YouTube Premium,Streaming,129,17,7.99,10.5,Yes
+183,Dropbox,Storage,150,8,1.03,19.72,Yes
+183,Canva Pro,Productivity,399,21,6.86,29.67,No
+183,Apple Music,Music,179,22,14.01,45.73,Yes
+184,Amazon Prime,Streaming,299,9,12.36,57.84,No
+184,Dropbox,Storage,150,23,13.18,54.42,No
+184,Hotstar,Streaming,299,19,7.03,93.65,Yes
+184,Apple Music,Music,179,8,6.62,46.99,No
+185,Dropbox,Storage,150,21,4.24,70.71,No
+185,Netflix,Streaming,499,7,14.33,74.93,No
+186,Dropbox,Storage,150,14,1.24,33.18,Yes
+186,Notion Pro,Productivity,300,15,13.14,33.1,No
+186,YouTube Premium,Streaming,129,1,7.12,43.21,Yes
+187,Canva Pro,Productivity,399,8,11.39,16.39,Yes
+187,YouTube Premium,Streaming,129,15,11.37,47.14,No
+187,Dropbox,Storage,150,10,5.75,63.43,Yes
+187,Spotify,Music,199,18,2.51,20.42,Yes
+187,Amazon Prime,Streaming,299,3,11.0,20.85,No
+188,Spotify,Music,199,6,12.52,99.21,No
+188,Dropbox,Storage,150,9,6.62,36.55,Yes
+188,Google One,Storage,130,13,6.29,91.91,No
+188,Amazon Prime,Streaming,299,23,12.34,16.06,No
+188,YouTube Premium,Streaming,129,11,6.73,70.57,No
+189,Google One,Storage,130,21,13.0,63.13,No
+189,Apple Music,Music,179,3,7.03,62.13,No
+189,Amazon Prime,Streaming,299,23,5.12,62.4,No
+190,Apple Music,Music,179,22,10.73,71.96,No
+190,YouTube Premium,Streaming,129,24,2.9,68.12,Yes
+190,Spotify,Music,199,1,5.52,23.9,Yes
+190,Canva Pro,Productivity,399,18,9.74,40.65,Yes
+190,Amazon Prime,Streaming,299,11,5.01,70.94,No
+191,Amazon Prime,Streaming,299,2,12.7,62.22,No
+191,Notion Pro,Productivity,300,4,2.93,97.48,Yes
+192,Notion Pro,Productivity,300,24,7.83,96.76,No
+192,Spotify,Music,199,14,0.95,44.92,Yes
+192,Apple Music,Music,179,18,5.04,23.24,No
+193,Notion Pro,Productivity,300,10,13.55,20.45,No
+193,Apple Music,Music,179,5,7.37,49.97,No
+193,Google One,Storage,130,9,14.77,35.96,No
+193,YouTube Premium,Streaming,129,20,0.95,97.37,No
+194,Hotstar,Streaming,299,5,2.74,59.83,No
+194,Notion Pro,Productivity,300,22,4.08,85.47,No
+195,Apple Music,Music,179,2,4.26,27.52,Yes
+195,Hotstar,Streaming,299,14,10.32,31.15,No
+195,Netflix,Streaming,499,4,5.54,62.24,Yes
+195,Canva Pro,Productivity,399,3,2.68,83.51,Yes
+195,Notion Pro,Productivity,300,17,11.15,37.04,No
+196,Spotify,Music,199,24,9.5,28.12,No
+196,Canva Pro,Productivity,399,5,7.4,58.87,Yes
+196,Amazon Prime,Streaming,299,21,9.19,41.81,No
+197,Apple Music,Music,179,22,2.39,81.15,Yes
+197,Dropbox,Storage,150,17,10.37,52.01,Yes
+197,Google One,Storage,130,6,2.66,51.64,No
+197,YouTube Premium,Streaming,129,12,11.44,54.27,No
+198,YouTube Premium,Streaming,129,4,4.64,28.29,Yes
+198,Spotify,Music,199,15,9.28,92.69,No
+198,Netflix,Streaming,499,17,13.05,98.27,No
+199,Amazon Prime,Streaming,299,19,9.23,63.23,No
+199,YouTube Premium,Streaming,129,3,3.41,19.83,No
+199,Dropbox,Storage,150,17,9.78,36.86,No
+199,Hotstar,Streaming,299,6,4.21,12.77,No
+199,Canva Pro,Productivity,399,23,0.78,52.92,No
+200,Spotify,Music,199,11,13.14,57.45,No
+200,Apple Music,Music,179,21,5.7,82.4,No
+200,Amazon Prime,Streaming,299,24,8.16,81.41,No

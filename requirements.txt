@@ -1,0 +1,22 @@
+# Core dependencies
+fastapi
+uvicorn
+pydantic
+scikit-learn
+pandas
+numpy
+faker
+# For development and EDA
+jupyter
+matplotlib
+seaborn
+joblib
+
+# Optional - for env variables/configs
+python-dotenv
+
+# File and datetime utilities
+python-dateutil
+
+
+
