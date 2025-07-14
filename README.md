@@ -1,17 +1,17 @@
-=======================================================
+=
 🔧 SETUP GUIDE: Subscription Harmony – ML + FastAPI
-=======================================================
+=
 
 
------------------------------------------
+-------------
 📁 Step 1: Clone the Repository
------------------------------------------
+--------------
 git clone https://github.com/YOUR_USERNAME/Subscription-Harmony.git
 cd Subscription-Harmony
 
------------------------------------------
+-----------
 🐍 Step 2: Create and Activate a Virtual Environment
------------------------------------------
+-------------
 # On Linux/Mac
 python3 -m venv venv
 source venv/bin/activate
@@ -28,20 +28,17 @@ pip install -r requirements.txt
 
 
 
------------------------------------------
+--------------
 🧪 Step 4: Create `.env` File
------------------------------------------
+---------------
 In the project root folder, create a file called `.env` and add:
 
-MONGODB_URI=mongodb+srv://appuser:vBMTfdXTjIGixEyL@subscription-app-db.tuy8pft.mongodb.net/subscriptionApp?retryWrites=true&w=majority&appName=subscription-app-db&ssl=true
-
-(Note: Do NOT share this URI publicly)
+MONGODB_URI= your url
 
 
-
------------------------------------------
+----------
 🧠 Step 5: Run ML Analysis 
------------------------------------------
+----------
 python ml/churn_analysis.py
 
 This will:
@@ -52,9 +49,9 @@ This will:
 
 
 
------------------------------------------
+---------------
 🚀 Step 6: Start the Prediction API
------------------------------------------
+---------------
 cd api
 uvicorn predict_api:app --reload
 
